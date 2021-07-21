@@ -1,0 +1,16 @@
+/* Styling for menu */
+
+.menu-item__dscrp {
+  padding: 20px;
+  color: black;
+  font-size: 1rem;
+  flex: 1;
+  text-align: left;
+}
+
+.photo {
+  height: 150px;
+  width: 200px;
+  object-fit: cover;
+  float: left; /* text goes left of the image */
+}

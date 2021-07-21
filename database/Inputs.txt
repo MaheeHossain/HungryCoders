@@ -1,0 +1,24 @@
+--> GET every order: http://localhost:50000/order/all
+
+--> POST an order: http://localhost:50000/order/placement
+
+--> VIEW the details of the order: http://localhost:50000/order/view/1S0kHvSmvzkEBjG1
+
+--> GET change the status of order: http://localhost:50000/order//setstatus/1S0kHvSmvzkEBjG1/fullfiled
+
+--> DELETE item from the order: http://localhost:50000/order/item/1S0kHvSmvzkEBjG1
+
+--> GET every item in the menu: http://localhost:50000/menu/all
+
+--> GET details of a snack: http://localhost:50000/menu/item/stUHcdOMgPEmffay
+
+--> POST new item added to the menu: http://localhost:50000/menu/item
+
+--> DELETE item from the menu: http://localhost:50000/menu/item/stUHcdOMgPEmffay
+
+--> GET details of all the vans: http://localhost:50000/van/all
+
+--> POST a new van: http://localhost:50000/van/create
+
+--> GET the status of a van: http://localhost:50000/van/:id
+

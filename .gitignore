@@ -1,0 +1,6 @@
+./package-lock.json
+./node_modules/*
+node_modules
+./customer-app/node_modules/*
+./customer-app/build
+.DS_Store
