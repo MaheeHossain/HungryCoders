@@ -1,4 +1,5 @@
 **Notes about project**
+
 HungryCoders was a group assignment for the INFO30005 subject in UniMelb. The project spanned 11 weeks and was done in a group of 5, 
 and was an introduction to web development using React.js. I was involved heavily in most areas of development, and handled the 
 majority of the back end development through the MVC Framework, and also helped create many pages such as the map, login and registration,
